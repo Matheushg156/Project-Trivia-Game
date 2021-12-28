@@ -13,6 +13,7 @@ Nessa aplicação a pessoa usuária poderá:
 <div>
   <img src="./triviaGame.gif" alt="trivia game" width="800" />
 </div>
+
 ---
 
 # Tecnologias usadas
